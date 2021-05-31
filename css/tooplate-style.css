@@ -774,13 +774,14 @@ body.lb-disable-scrolling {
 		font-size: 13px;
 	}
 
+	.cd-hero .slide-caption h2 {
+		font-size: 28px;
+	}
+
 	#bird{
 		display: none;
 	}
 
-	.cd-hero .slide-caption h2 {
-		font-size: 28px;
-	}
 	.galeria{
 		column-count: 1;
 	}
@@ -791,24 +792,34 @@ body.lb-disable-scrolling {
 	.slide-caption .content-caption p {
 		padding: 0 10%;
 	}
-
-	#bird{
-		display: none;
-	}
-
 	.service-item {
 		margin-bottom: 30px;
+	}
+	#what-we-do .right-image {
+		margin-top: 60px;
+	}
+	#blog .pop {
+		top: 15%;
+		height: 80%;
+		overflow-y: scroll;
 	}
 	.fact-item {
 		margin-bottom: 15px;
 	}
-
+	.map {
+		margin-bottom: 45px;
+	}
 	footer {
 		text-align: center;
 	}
 	footer ul {
 		float: none;
 	}
+
+	#bird{
+		display: none;
+	}
+	
 	.galeria{
 		column-count: 2;
 	}
